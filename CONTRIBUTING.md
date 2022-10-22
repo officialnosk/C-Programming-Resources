@@ -12,5 +12,7 @@ This resources are for C Programming newbies so add reources accordingly
 2.  Also give description about the resources in short so that one can undestand what's good about it
 3.   Add resources in format
 >> **'['CHANNEL-NAME/AUTHOR-NAME']'('LINK-TO-THE-CONTENT')'add-description-now**
+4. If you add books then make sure you upload the PDF on [Books Folder](/Books)
+5. **Once again I repeat, Only ADD Resources that you have followed**
 
 ___If you have any suggestions then create issues where we can discuss___
