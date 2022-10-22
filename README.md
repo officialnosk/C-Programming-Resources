@@ -26,3 +26,4 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) before adding resources on this repo :s
 
 ## Project Based Learning
 (Add the projects that you think will be good to follow and learn, you can add beginner to advanced projects but make sure to mention that in description)
+1. [Writing 2D Games in C using SDL by Thomas Lively](https://www.youtube.com/watch?v=yFLa3ln16w0&t=2s)This mayn't be for beginner but it's good to gather some insights after you understand the basics. Also this video is completely for Linux User so make sure you are in one ;)
