@@ -4,8 +4,8 @@ This resources are for C Programming newbies so add reources accordingly
 
 ## Don't do this
 1. Don't add too much resources
-2.  Don't search on the internet for resources and add tha
-3.  Don't just paste the resources link 
+2.  Don't search on the internet for resources and add that just for the sake of making PR
+3.  Don't just paste the resources link without adding description
 
 ## Do This
 1. Only Add the resources that you have followed
