@@ -16,3 +16,11 @@ This resources are for C Programming newbies so add reources accordingly
 5. **Once again I repeat, Only ADD Resources that you have followed**
 
 ___If you have any suggestions then create issues where we can discuss___
+
+## INSTRUCTIONS-
+
+- Fork this Repository using the button at the top on right corner.
+- Clone your forked repository to your pc ( git clone "url from clone option.) or without clonning use Github Upload or press (.) and then you can easily upload files and also edit md files
+- Add your Resources and then push into your remote repository
+- Create a pull request
+- Star this repository if you think it will be useful 🌟
