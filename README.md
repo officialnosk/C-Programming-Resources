@@ -1,2 +1,2 @@
-# programming-resources
-Contains resources / guides for beginners to follow
+# C- Programming-Resources
+Contains resources / guides for beginners to learn C Programming
