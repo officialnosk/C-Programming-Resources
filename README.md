@@ -20,6 +20,10 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) before adding resources on this repo :s
 
 ## Hindi Video Tutorials
 1. [MySirG.com](https://youtube.com/playlist?list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW) has great video tutorials by teaching all the basics conscisely and clearly.
+2. [CodeWithHarry](https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR)
+3. [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S)
+4. [Apna College](https://www.youtube.com/watch?v=irqbmMNs2Bo&t=15631s)
+5. [Neso Academy](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 
 ## Intermediate Resources 
 (Add resources that are suitable for intermediate level person who are familiar with basics of C programming and want to dive into advanced concepts)
