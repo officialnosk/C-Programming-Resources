@@ -8,6 +8,20 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) before adding resources on this repo :s
 
  #### ***START WITH A SINGLE RESOURCES AND STICK WITH THAT TILL YOU COMPLETE***
 ---
+
+## So why should you learn C programming?
+
+1. It only has 32 keywords so it is a good starting point to learn programming.
+1. It is easy and fast to learn the basics of C programming.
+1. Helps to understand the fundamentals of Computer Theories. Most of the theories related to computers like Computer Networks, Compiler Designing, Computer Architecture, Operating Systems are based on C programming language and requires a good knowledge of C programming if you are working on them.
+1. C is considered the middle level language , somewhere between low level language and highlevel language.It acts ad a bridge so it's important to learn C.
+1. You want your program to run very fast, use C language.
+1. You want to learn robotics ,learn C programming.
+1. You want to make your own hardware and program it, learn C programming to do so.
+1. You want to build your own operating system , learn C programming to do so.
+1. Want to brush up your logic building skills , do it in C.
+
+
 ## :books:Books / Documentation
 (Recommended method to learn Programming)
 
@@ -20,6 +34,10 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) before adding resources on this repo :s
 
 ## Hindi Video Tutorials
 1. [MySirG.com](https://youtube.com/playlist?list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW) has great video tutorials by teaching all the basics conscisely and clearly.
+2. [CodeWithHarry](https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) CWH has great playlist which is very good for beginner.
+3. [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) she teached everything in proper structured way and both beginners and pro can cosider her video lectures.
+4. [Apna College](https://www.youtube.com/watch?v=irqbmMNs2Bo&t=15631s) in one shot you are going to learn every topic from scratch and she solved multiple question in order to grasp the topics clearly 
+5. [Neso Academy](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) this channel is for beginners and al well as pro can consider to learn all topics from scratch
 
 ## Intermediate Resources 
 (Add resources that are suitable for intermediate level person who are familiar with basics of C programming and want to dive into advanced concepts)

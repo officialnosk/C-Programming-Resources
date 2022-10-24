@@ -3,17 +3,19 @@
 This resources are for C Programming newbies so add reources accordingly
 
 ## Don't do this
-1. Don't add too much resources
+1.  Don't add too much resources
 2.  Don't search on the internet for resources and add that just for the sake of making PR
 3.  Don't just paste the resources link without adding description
+4.  Don't add New Folder or File
 
 ## Do This
-1. Only Add the resources that you have followed
+1.  Only Add the resources that you have followed
 2.  Also give description about the resources in short so that one can undestand what's good about it
-3.   Add resources in format
+3.  Add resources in format
 >> **'['CHANNEL-NAME/AUTHOR-NAME']'('LINK-TO-THE-CONTENT')'add-description-now**
-4. If you add books then make sure you upload the PDF on [Books Folder](/Books)
-5. **Once again I repeat, Only ADD Resources that you have followed**
+4.  If you add books then make sure you upload the PDF on [Books Folder](/Books) NOTE: ONLY THE BOOK THAT IS FREE TO DISTRIBUTE ELSE YOU CAN MENTION THE LINKS TO THE BOOK IN :books:Books/Documentation Section
+5. If you have added new books/PDF's on Books folder then please mention that on README.md => BOOKS/Documentation section
+6. **Once again I repeat, Only ADD Resources that you have followed**
 
 ___If you have any suggestions then create issues where we can discuss___
 
