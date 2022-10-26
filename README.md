@@ -22,7 +22,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) before adding resources on this repo :s
 1. Want to brush up your logic building skills , do it in C.
 
 
-## :books:Books / Documentation
+## [:books:Books / Documentation](/Books/)
 (Recommended method to learn Programming)
 
 
