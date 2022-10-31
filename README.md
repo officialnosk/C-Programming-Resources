@@ -44,6 +44,15 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) before adding resources on this repo :s
 ## Intermediate Resources 
 (Add resources that are suitable for intermediate level person who are familiar with basics of C programming and want to dive into advanced concepts)
 
+## PlatForm To Practice Coding in C
+1.[GFG](https://www.geeksforgeeks.org/)
+2.[LeetCode](https://leetcode.com/)
+3.[HackerRank](https://www.hackerrank.com/)
+4.[HackerEarth](https://www.hackerearth.com/)
+5.[AtCoder](https://atcoder.jp/)
+6.[CodeChef](https://www.codechef.com/)
+7.[CdeForces](https://codeforces.com/)
+
 ## Project Based Learning
 (Add the projects that you think will be good to follow and learn, you can add beginner to advanced projects but make sure to mention that in description)
 1. [Writing 2D Games in C using SDL by Thomas Lively](https://www.youtube.com/watch?v=yFLa3ln16w0&t=2s)This mayn't be for beginner but it's good to gather some insights after you understand the basics. Also this video is completely for Linux User so make sure you are in one ;)
