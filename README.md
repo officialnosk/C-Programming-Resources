@@ -38,6 +38,8 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) before adding resources on this repo :s
 3. [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) she teached everything in proper structured way and both beginners and pro can cosider her video lectures.
 4. [Apna College](https://www.youtube.com/watch?v=irqbmMNs2Bo&t=15631s) in one shot you are going to learn every topic from scratch and she solved multiple question in order to grasp the topics clearly 
 5. [Neso Academy](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) this channel is for beginners and al well as pro can consider to learn all topics from scratch
+6. [FreeCodeCamp.org](https://www.youtube.com/watch?v=KJgsSFOSQv0) FreeCodeCamp provides a great learning resource to C in a very short and interactive way. 
+7. [CS50](https://www.youtube.com/watch?v=BnJ013X02b8&list=PL-fDNXex3rAYD1mSoEe8hLvoMW1_TkTbT) CS50 is an online course provided by Harvard University to help students to learn from the best teachers from the Harvard University.
 
 ## Intermediate Resources 
 (Add resources that are suitable for intermediate level person who are familiar with basics of C programming and want to dive into advanced concepts)
